@@ -8,8 +8,8 @@ URL = 'https://hackathon-batalha-final.s3.amazonaws.com/'
 POST_DATA = {
     'key': FILE_PATH,
     'AWSAccessKeyId': 'AKIA6HWHFK26FN543IED',
-    'policy': 'eyJleHBpcmF0aW9uIjogIjIwMjAtMTEtMTZUMDI6NTk6MDBaIiwgImNvbmRpdGlvbnMiOiBbeyJidWNrZXQiOiAiaGFja2F0aG9uLWJhdGFsaGEtZmluYWwifSwgeyJrZXkiOiAiZXF1aXBlXzQxMDY4NTY3Ny56aXAifV19',
-    'signature': 'sX0qE3DLIJnJkDRMo90nSM9reX0='
+    'policy': 'eyJleHBpcmF0aW9uIjogIjIwMjAtMTEtMThUMDI6NTk6MDBaIiwgImNvbmRpdGlvbnMiOiBbeyJidWNrZXQiOiAiaGFja2F0aG9uLWJhdGFsaGEtZmluYWwifSwgeyJrZXkiOiAiZXF1aXBlXzQxMDY4NTY3Ny56aXAifV19',
+    'signature': 'oY2s1uvRGDoBvXtGQ+hvuRnALPE='
 }
 
 
